@@ -1,2 +1,1 @@
-# lhthoward.github.io
 # Hello!
